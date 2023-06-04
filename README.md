@@ -1,4 +1,4 @@
-# 𝐏𝐥𝐚𝐜𝐞𝐦𝐞𝐧𝐭 𝐂𝐞𝐥𝐥 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 🚀
+# 𝐏𝐥𝐚𝐜𝐞𝐦𝐞𝐧𝐭 𝐂𝐞𝐥𝐥 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 
 
 <br/>
 <p align="justify">
@@ -114,8 +114,6 @@ For any issues related to the project, raise an ISSUE for the respective Reposit
 ## 🔗 Links
 
 > ## Checkout the Website [Web Application](https://placement-cell-application.onrender.com)
->
-> ## Checkout the Application Demo Video [YouTube]()
 
 <br/>
 
@@ -131,14 +129,6 @@ For any issues related to the project, raise an ISSUE for the respective Reposit
 
 <br/>
 
-## 🐦 Follow Me:
 
-> [Dev Community](https://dev.to/ayushkanduri)
-
-> [Twitter](https://twitter.com/ayush_codes)
-
-> [LinkedIn](https://www.linkedin.com/in/ayushkanduri/)
-
-> [YouTube](https://www.youtube.com/channel/UC6c1ajC_2jF7wQp7Y13t2bg)
 
 I hope you like the project. Thanks for reading :)
