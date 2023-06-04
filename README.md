@@ -113,7 +113,7 @@ For any issues related to the project, raise an ISSUE for the respective Reposit
 
 ## 🔗 Links
 
-> ## Checkout the Website [Web Application](https://placement-cell-application.onrender.com)
+> ## Checkout the Website [Web Application]( https://codewithvirues.github.io/Placement-Cell-Application.github.io/)
 
 <br/>
 
